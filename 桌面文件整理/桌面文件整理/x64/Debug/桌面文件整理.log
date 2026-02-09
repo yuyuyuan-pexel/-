@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Users\36138\Desktop\文件夹\桌面文件整理\桌面文件整理\main.cpp(78,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\36138\Desktop\文件夹\桌面文件整理\桌面文件整理\main.cpp(79,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\36138\Desktop\文件夹\桌面文件整理\桌面文件整理\main.cpp(27,1): warning C4715: “ismulu”: 不是所有的控件路径都返回值
+  桌面文件整理.vcxproj -> D:\Users\36138\Desktop\文件夹\桌面文件整理\x64\Debug\桌面文件整理.exe
