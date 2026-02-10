@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="桌面文件整理/桌面文件整理.vcxproj" Id="d698af9c-2a33-403e-abe8-e83ff3899afb" />
+</Solution>
